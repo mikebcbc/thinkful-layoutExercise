@@ -7,4 +7,46 @@ a {
   text-decoration: none;
 }
 
-/* Your styles go here! */
+.wrapper {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.inner-wrapper {
+	font-size: 0;
+}
+
+.box {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.long {
+	width: 50%;
+	height: 200px;
+}
+
+.short {
+	width: 33.33%;
+	height: 300px;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+}
+
+.orange {
+	background-color: orange;
+}
